@@ -1,7 +1,7 @@
 function x = func5(a,b,c)
 delta=(b^2)- 4*a*c;
 if(delta < 0)
-    disp("No Roots");
+    error("No Roots");
 elseif(delta ==0)
     x=(-b/(2*a));
 else
