@@ -11,6 +11,6 @@ pq = conv(p, q);  %p.q = ((1 - x^2)^2).(1 - 3x - 2x^3)
 integ = polyint(pq)
 
 %Find the value of the integral by evaluating pq at the limits of integration
-a = -1;
+a = -2;
 b = 3;
 I = diff(polyval(integ,[-2 3]))
