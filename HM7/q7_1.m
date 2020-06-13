@@ -22,11 +22,11 @@ for i=1:s_size
     end
     
     
-    Fs = 32768;
+    Fs = 16000;
     t = 0:1/Fs:0.3;
     y1 = sin(2*pi*fr(k)*t);
     y2 = sin(2*pi*fc(j)*t);
-    y = (y1 + y2)/2;
+    y = (y1 + y2);
 
     soundsc(y,Fs)
     pause(0.15)
