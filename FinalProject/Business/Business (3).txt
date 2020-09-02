@@ -1,0 +1,49 @@
+Onset of recession may take longer than expected after yield curve inverts
+
+(Reuters) - The onset of a U.S. recession could take longer than usually thought after key points of the Treasury yield curve invert, as a surge in U.S. short-dated debt issuance has altered the dynamics of the Treasury market and other indicators show an economic downturn is farther off.
+
+As the Trump administration ramps up debt sales to cover a budget deficit projected to hit $1 trillion next year, it has crowded the front of the yield curve with far more new bonds than the back end.
+
+Banks, meanwhile, have shown a preference for mortgage-backed bonds over Treasuries since the financial crisis, a shift that has elevated the significance of moves in the yield curve of those bonds.
+
+These structural changes in supply and demand have some analysts thinking that means a longer lag until recession begins following any inversion of yields on two- and 10-year Treasuries, which has historically taken 18 months to two years.
+
+Some analysts and economists say that other yield curves may be better predictors of an impending economic downturn, and those are further away from flashing a warning signal than the two-year, 10-year Treasury spread.
+
+Short-dated Treasury yields inverted this week for the first time since before the financial crisis, with two-year notes yielding more than three-year and five-year ones.
+
+The spread between two-year note and 10-year note yields shrank to less than 10 basis points, the smallest gap since 2007, sparking worry that an economic downturn could be close.
+
+(Graphic: Yield curve inversion - https://tmsnrt.rs/2QeQbBg)
+
+Analysts say that central banks’ quantitative easing programs since the financial crisis of 2007-2009 have distorted the yield curve, meaning that an inversion of two-year and 10-year notes, if it occurs, should not be read that a recession is necessarily near.
+
+“The current curve is massively distorted by QE and also the effects of the unwind,” said Thomas Simons, a money market economist at Jefferies in New York.
+
+The U.S. Treasury Department has increased supply of two-year notes by $82 billion since February, far exceeding $22 billion in 10-year notes it issued over the same time frame.
+
+“That’s a very significant amount of supply that’s been dumped into the front-end that hasn’t been equally distributed into the long-end,” said Simons.
+
+This has helped send yields on shorter-dated debt relatively higher, and compressed the spread between two-year and 10-year notes.
+
+(Graphic: Note auctions - https://tmsnrt.rs/2QkyeBh)
+
+Demand for Treasuries since the crisis has also changed, with banks increasingly turning to debt guaranteed by mortgage giants Fannie Mae and Freddie Mac as an alternative.
+
+“Given that banks are using it less than Fannie and Freddie, the importance of the Treasury curve has really diminished in the last nine-and-a-half years,” said Brian Reynolds, an analyst at Canaccord Genuity.
+
+Fannie and Freddie bonds offer a higher yield pickup than Treasuries, and their bailout by the U.S. government in 2008 gave them a government guarantee.
+
+U.S. banks have increased their holdings of mortgage-backed debt guaranteed by Fannie, Freddie and other government agencies to $2.23 trillion, from $1.16 trillion at the end of 2008, while Treasury holdings have increased to $503 billion from $56 billion during the same period, according to data by the Federal Reserve.
+
+(Graphic: Freddie - https://tmsnrt.rs/2QhDfKY)
+
+The gap between two-year and 10-year Fannie and Freddie yields is currently around 24 basis points and 44 basis points, respectively, making any future inversion likely to come later than that of the Treasury curve.
+
+An economic paper by the Federal Reserve Bank of San Francisco in August, meanwhile, found that while the two-year, 10-year curve is typically the focus of financial commentators, the inversion between three-month bills and 10-year notes has better accuracy as a predictor of a recession 12 months into the future.
+
+That spread is also currently around 50 basis points, indicating that an inversion would occur later than that of the most commonly cited two-year, 10-year spread.
+
+“It could be many months before we see that point of the curve invert,” said Charlie Ripley, senior investment strategist at Allianz Investment Management.
+
+

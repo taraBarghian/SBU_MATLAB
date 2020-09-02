@@ -1,0 +1,37 @@
+The yield curve is flattening. But the party isn't over yet
+
+New York (CNN Business)1. Yield curve jitters: One of Wall Street's most reliable fortunetellers is flashing ominous signals about the economic future.
+
+The yield curve, the difference between short and long-term rates, has flattened out in recent weeks. That's typically a sign of slower growth ahead.
+Worse, the gap between the two-year and 10-year Treasury yields is getting uncomfortably close to inverting. Inversion, when short-term rates are higher than long-term ones, has occurred prior to every US recession over the past 50 years. The spread hasn't been this narrow since just before the Great Recession.
+Investors, nervous that the bond market is foretelling economic doom, are heading for the exits. Yield curve concerns combined with trade war fears to send the Dow plunging last week.
+While the caution is understandable, some market analysts are warning investors against overreacting.
+First, it's important to note that while the shorter end of the yield curve has inverted, the more reliable part of the curve has not. The gap between 2-year and 10-year Treasury yields fell below 0.10 percentage points on Tuesday before ending the week at around 0.14 percentage points.
+But simply getting close doesn't count.
+"It's not a dimmer switch," said Dan Suzuki, portfolio strategist at Richard Bernstein Advisors. "It works more like an on-off switch."
+Lag between inversion and peak
+Yet even when that switch is flipped, history shows that the party on Wall Street doesn't necessarily end right away.
+Prior to the last five recessions, the S&P 500 peaked 19 months on average after the yield curve inverted, according to Ryan Detrick, senior market strategist at LPL Financial, wrote to clients last week.
+"Contrary to what many people think, inverted yield curves don't always sound the alarm to sell," Detrick said.
+Those that sold at the yield curve inversion would have missed out. The S&P 500 added an average of 22% until it reached the peak, LPL found.
+And that was for good reason. The lag between inversion and recession tends to be lengthy. The time between inversion and economic contraction has ranged between 14 months and 34 months, according to a report by Jonathan Golub, chief US equity strategist at Credit Suisse.
+For instance, the yield curve went upside-down in December 2005 -- two years before the Great Recession began.
+And even if the yield curve does flip soon, other economic signals are hardly flashing red. The US economy is still creating jobs, albeit at a slower pace. And US GDP growth is projected to be solid in 2019, even if it's a deceleration from this year.
+Golub said the Credit Suisse Recession Dashboard shows just "limited strain" on major metrics such as inflation, job creation and the credit markets.
+"We have never experienced a recession without such corroborations," Golub wrote.
+All of this means that the threat facing the bull market from the yield curve may not be imminent.
+2. Brexit vote: Tuesday is a key day for British Prime Minister Theresa May's plan to usher the United Kingdom out of the European Union. UK Parliament members are set to vote on the deal, concluding five days of debate.
+The Brexit drama reached a crescendo in the past few days. Last week, May was found in contempt of Parliament for failing to publish the full legal advice underpinning her exit plan. The government recently published a report saying leaving the European Union will be disastrous for the British economy. The process has taken a toll on the pound sending it to fresh lows against the US dollar.
+3. Inflation reports: On Tuesday, the US government will release a pair of inflation metrics for November -- the Consumer Price Index and the Producer Price Index.
+CPI tracks most items on the average city-dwelling American's shopping list. CPI rose 0.3% in October. PPI, which tracks producer prices, also nudged upward in the last report.
+Both numbers have been climbing and will be the focus of the next Federal Reserve meeting in two weeks. The Fed is expected to raise interest rates to keep inflation in check. However, concerns about higher borrowing costs have cast doubt on 2019 rate hikes.
+4. Pichai to DC: Google CEO Sundar Pichai is scheduled to make his debut testifying before Congress on Tuesday. The high-stakes meeting was rescheduled from last week in honor of President George H.W. Bush, who died.
+Pichai is set to appear before a committee of the US House of Representatives, where he will probably face questions from Republicans on whether the search engine harbors bias or ill-will toward conservatives. Lawmakers could also ask him about Google's plans to reenter China and the company's data privacy initiatives.
+Similar other tech companies, Alphabet's (GOOG) stock has been in a rut this year. It's only up less than 1% for the year.
+5. Coming this week:
+Monday — Stitch Fix (SFIX) earnings
+Tuesday — Parliament votes on Theresa May's Brexit deal; Google CEO Sundar Pichai testifies in front of House Judiciary Committee; PPI report
+Wednesday — CPI report
+Thursday — Adobe (ADBE) and Costco (COST) earnings
+Friday — US retail sales for November
+
